@@ -13,6 +13,8 @@
 |Arnav Singh | arnavsingh010 |IIIT-A |
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
+
+|Kushagra Raghuvanshi| Taskmaster-afk | IIIT-Allahabad |
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
 
